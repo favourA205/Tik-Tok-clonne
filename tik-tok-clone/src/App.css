@@ -4,7 +4,10 @@ html {
 
 .app {
   height: 100vh;
-  background-color: black;
+  background: url(C:\Users\User\Desktop\Tik-tok\tik-tok-clone\src\Green-nature.png)
+    no-repeat;
+  background-size: cover;
+  /* background-color: black; */
   display: grid;
   place-items: center;
 }
