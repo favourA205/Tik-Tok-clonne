@@ -1,6 +1,7 @@
 import React from 'react'
 import './VideoFooter.css'
 // copy the code to import the musicnote icon
+import MusicNoteIcon from "@material-ui/icons/MusicNote";
 // import Ticker from "react-ticker";
 
 function VideoFooter({ channel, description, song }) {
@@ -13,7 +14,7 @@ function VideoFooter({ channel, description, song }) {
                     {/* install material ui /core */}
                     {/*install material ui /icons  */}
                     {/* install react ticker  npm i react-ticker */}
-                    {/* <MusicNoteIcon className="videoFooter__icon"/> */}
+                    <MusicNoteIcon className="videoFooter__icon"/>
                     {/* <Ticker mode="smooth">
                             {({ index }) => (
                         <>

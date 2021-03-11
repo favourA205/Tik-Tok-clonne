@@ -12,6 +12,14 @@ html {
   place-items: center;
 }
 
+.app__overlay {
+  position: absolute;
+  background: black;
+  height: 100vh;
+  width: 100%;
+  opacity: 0.5;
+}
+
 .app__videos {
   position: relative;
   /* height: 800px; */
