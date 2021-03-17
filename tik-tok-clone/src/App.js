@@ -23,7 +23,7 @@ function App() {
         {/* hard coded  format */}
 
         <Video
-          url=''
+          url='https://www.tiktok.com/@joshvfx/video/6796782613458701573?lang=en&is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=6896915634925798913'
           channel='favouragebjule'
           description='sooooo coooool'
           song='love it'
@@ -36,7 +36,7 @@ function App() {
         <Video/>
 
 
-        {/* firebase database format */}
+        {/* firebase database format
         {videos.map(
           ({ url, channel, description, song, likes, messages, shares }) =>(
             <Video
@@ -49,7 +49,7 @@ function App() {
               shares={shares}
             />
           )
-        )}
+        )} */}
 
       </div>
 
