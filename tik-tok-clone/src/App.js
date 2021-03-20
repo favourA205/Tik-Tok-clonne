@@ -23,8 +23,8 @@ function App() {
         {/* hard coded  format */}
 
         <Video
-          url='https://www.tiktok.com/@joshvfx/video/6796782613458701573?lang=en&is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=6896915634925798913'
-          channel='favouragebjule'
+          url='https://www.tiktok.com/@ankit_dancer01/video/6781380077616778498'
+          channel='heyyy'
           description='sooooo coooool'
           song='love it'
           likes={34}
